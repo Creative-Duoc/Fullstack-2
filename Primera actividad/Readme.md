@@ -20,6 +20,7 @@ Este proyecto es una página web simple para una **verdulería**, desarrollada c
 
 ## ¿Cómo navegar el proyecto?
 
+
 1. Abre `index.html` en tu navegador para ver la página principal.
 2. Utiliza los enlaces disponibles para acceder a otras secciones, como `Verduleria.html`.
 3. Explora las imágenes y recursos en la carpeta `Assets`.
